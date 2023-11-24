@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb285d55-1a14-4a12-903f-b2787c93b597" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="e#37#39#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../css/master.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rec</find>
+      <find>thumbnail</find>
+      <find>img-thumbnail</find>
+      <find>airplane</find>
+      <find>btn-primary</find>
+      <find>filterDiv</find>
+      <find>&lt;div class=&quot;col</find>
+      <find>&lt;div&gt;</find>
+      <find>Services</find>
+      <find>w-10</find>
+      <find>body</find>
+      <find>toggleBar</find>
+      <find>test</find>
+      <find>submen</find>
+      <find>omg</find>
+      <find>.nav-link</find>
+      <find>overlay</find>
+      <find>.w-25</find>
+      <find>.w-10</find>
+      <find>text-align</find>
+      <find>Gallery</find>
+      <find>embed-responsive-21by9</find>
+      <find>homeTest</find>
+      <find>col-sm-12</find>
+      <find>media</find>
+      <find>offset</find>
+      <find>video</find>
+      <find>photos</find>
+      <find>nav</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/photoscss.php" />
+        <option value="$PROJECT_DIR$/bootstrap.min.php" />
+        <option value="$PROJECT_DIR$/activeHeader.php" />
+        <option value="$PROJECT_DIR$/videos.php" />
+        <option value="$PROJECT_DIR$/epoxy.php" />
+        <option value="$PROJECT_DIR$/industries.php" />
+        <option value="$PROJECT_DIR$/../js/jquery-validate.min.js" />
+        <option value="$PROJECT_DIR$/../js/jquery-contact-submission-handling.js" />
+        <option value="$PROJECT_DIR$/handler.php" />
+        <option value="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/src/FieldValidatorCollection.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/formpage.html" />
+        <option value="$PROJECT_DIR$/contact-form/src/ReCaptchaValidator.php" />
+        <option value="$PROJECT_DIR$/contact-form/handler.php" />
+        <option value="$PROJECT_DIR$/contact-form/src/index.php" />
+        <option value="$PROJECT_DIR$/contact-form/formpage.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/ReCaptchaValidator.php" />
+        <option value="$PROJECT_DIR$/recaptchavalidator.php" />
+        <option value="$PROJECT_DIR$/../js/mauGallery.min.js" />
+        <option value="$PROJECT_DIR$/../jquery_photo_gallery/docs/index.html" />
+        <option value="$PROJECT_DIR$/../js/filter.js" />
+        <option value="$PROJECT_DIR$/stain-seal.php" />
+        <option value="$PROJECT_DIR$/../js/popper.min.js" />
+        <option value="$PROJECT_DIR$/header1.php" />
+        <option value="$PROJECT_DIR$/flake.php" />
+        <option value="$PROJECT_DIR$/neat.php" />
+        <option value="$PROJECT_DIR$/metallic.php" />
+        <option value="$PROJECT_DIR$/urethane.php" />
+        <option value="$PROJECT_DIR$/electrostatic.php" />
+        <option value="$PROJECT_DIR$/micro.php" />
+        <option value="$PROJECT_DIR$/spray.php" />
+        <option value="$PROJECT_DIR$/seal.php" />
+        <option value="$PROJECT_DIR$/stain.php" />
+        <option value="$PROJECT_DIR$/decorative-concrete.php" />
+        <option value="$PROJECT_DIR$/concrete-grinding.php" />
+        <option value="$PROJECT_DIR$/polished-concrete.php" />
+        <option value="$PROJECT_DIR$/home1.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/stout.php" />
+        <option value="$PROJECT_DIR$/quartz.php" />
+        <option value="$PROJECT_DIR$/about-us.php" />
+        <option value="$PROJECT_DIR$/contact-us.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/photos.php" />
+        <option value="$PROJECT_DIR$/../css/master.css" />
+        <option value="$PROJECT_DIR$/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="y" value="69" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../photos.php" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\Epoxy_Brothers\php" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb285d55-1a14-4a12-903f-b2787c93b597" name="Default Changelist" comment="" />
+      <created>1546585354504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546585354504</updated>
+      <workItem from="1546585357642" duration="3024000" />
+      <workItem from="1546993736367" duration="1651000" />
+      <workItem from="1547322152155" duration="6540000" />
+      <workItem from="1547362016081" duration="1481000" />
+      <workItem from="1547501759040" duration="10880000" />
+      <workItem from="1547775488192" duration="6888000" />
+      <workItem from="1547790794999" duration="1003000" />
+      <workItem from="1547857143984" duration="942000" />
+      <workItem from="1548019820538" duration="1199000" />
+      <workItem from="1548114050797" duration="599000" />
+      <workItem from="1548132971728" duration="5219000" />
+      <workItem from="1548204031787" duration="14841000" />
+      <workItem from="1548293177116" duration="11286000" />
+      <workItem from="1548458105410" duration="603000" />
+      <workItem from="1548596203110" duration="1305000" />
+      <workItem from="1548597527306" duration="6235000" />
+      <workItem from="1548696597406" duration="10894000" />
+      <workItem from="1548768373314" duration="11074000" />
+      <workItem from="1548912912557" duration="4542000" />
+      <workItem from="1549077616633" duration="8453000" />
+      <workItem from="1549151608867" duration="2073000" />
+      <workItem from="1549153794163" duration="5012000" />
+      <workItem from="1549234500110" duration="6447000" />
+      <workItem from="1549307944833" duration="8637000" />
+      <workItem from="1549405151331" duration="5429000" />
+      <workItem from="1549488277851" duration="8829000" />
+      <workItem from="1549499637358" duration="7989000" />
+      <workItem from="1549591553823" duration="13519000" />
+      <workItem from="1549609077696" duration="120000" />
+      <workItem from="1549688024295" duration="1229000" />
+      <workItem from="1549805252915" duration="5939000" />
+      <workItem from="1549894915953" duration="720000" />
+      <workItem from="1549909467592" duration="2451000" />
+      <workItem from="1549933287822" duration="16305000" />
+      <workItem from="1550100242437" duration="257000" />
+      <workItem from="1550100520239" duration="2915000" />
+      <workItem from="1550158149485" duration="599000" />
+      <workItem from="1550279341701" duration="9397000" />
+      <workItem from="1550301688224" duration="2250000" />
+      <workItem from="1550363473145" duration="1040000" />
+      <workItem from="1550364530965" duration="1978000" />
+      <workItem from="1550366528376" duration="344000" />
+      <workItem from="1550366899749" duration="1298000" />
+      <workItem from="1550378535592" duration="1894000" />
+      <workItem from="1550612400325" duration="751000" />
+      <workItem from="1550613253645" duration="5222000" />
+      <workItem from="1550619211583" duration="6424000" />
+      <workItem from="1550811987085" duration="3453000" />
+      <workItem from="1550816158527" duration="1770000" />
+      <workItem from="1550960724614" duration="1555000" />
+      <workItem from="1550963006605" duration="7360000" />
+      <workItem from="1551050767519" duration="6646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="248511000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10714286" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/handler.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/formpage.html" />
+    <entry file="file://$PROJECT_DIR$/contact-form/vendor/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/contact-form/vendor/FormGuide/PHPFormValidator/README.md" />
+    <entry file="file://$PROJECT_DIR$/contact-form/src/ReCaptchaValidator.php" />
+    <entry file="file://$PROJECT_DIR$/contact-form/src/index.php" />
+    <entry file="file://$PROJECT_DIR$/contact-form/form.js" />
+    <entry file="file://$PROJECT_DIR$/contact-form/handler.php" />
+    <entry file="file://$PROJECT_DIR$/contact-form/form.css" />
+    <entry file="file://$PROJECT_DIR$/contact-form/formpage.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/ReCaptchaValidator.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/index.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/FormHandler.php" />
+    <entry file="file://$PROJECT_DIR$/ReCaptchaValidator.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/script.js" />
+    <entry file="file://$PROJECT_DIR$/jquery-photo-gallery/index.html" />
+    <entry file="file://$PROJECT_DIR$/../js/mauGallery.min.js" />
+    <entry file="file://$PROJECT_DIR$/../jquery_photo_gallery/docs/index.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/filter-tags.html" />
+    <entry file="file://$PROJECT_DIR$/videos.php" />
+    <entry file="file://$PROJECT_DIR$/../js/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../js/filter.js" />
+    <entry file="file://$PROJECT_DIR$/header1.php" />
+    <entry file="file://$PROJECT_DIR$/decorative-concrete.php" />
+    <entry file="file://$PROJECT_DIR$/epoxy.php" />
+    <entry file="file://$PROJECT_DIR$/homeTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bootstrap-4.1.3/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/concrete-grinding.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="21" column="94" lean-forward="true" selection-start-line="21" selection-start-column="94" selection-end-line="21" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/electrostatic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flake.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metallic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="70" lean-forward="true" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="20" column="78" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polished-concrete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urethane.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="53" column="49" lean-forward="true" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../js/gallery-filter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../css/master.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#37#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
